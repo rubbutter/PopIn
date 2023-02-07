@@ -1,0 +1,13 @@
+Creating an iOS app using C++ can be done using a few different methods, such as:
+
+Using a game engine: Popular game engines like Unity and Unreal Engine have built-in support for C++ and allow you to create iOS apps by writing C++ code.
+
+Using a cross-platform framework: There are several frameworks available, such as Marmalade, that allow you to write C++ code and then compile it for iOS.
+
+Using Objective-C++: You can use Objective-C++, a variant of C++ that allows you to write C++ code along with Objective-C code. This allows you to take advantage of the iOS SDK and existing Objective-C libraries while still using C++ for your app's logic.
+
+Using C++ to create a command line tool and use it as a library in your iOS App, this method is more complex and not recommended for beginners.
+
+In order to develop and deploy an iOS app, you will also need a Mac and a developer account with Apple. With that, you can use Xcode, which is the official development environment for iOS apps, to build, test, and submit your app to the App Store.
+
+Keep in mind that depending on the complexity of your app and the method you choose, the development process can be challenging and time-consuming, especially if you are new to iOS development.
